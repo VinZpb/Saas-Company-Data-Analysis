@@ -10,3 +10,6 @@ The analysis are conducted by following various step as follows:
 - Step 3: Data Preprocesing, this step include: Managing data type, checking any mischaracterization, handling outliers, checking any out of range values, fill or drop missing values, delete duplicate data.
 - Step 4: Data analysis, Visualization, Insight and Recommendation for each problem statement.
 - Step 5: Export Final Dataframes into excel.
+
+For visualization using tableau can be view in the link below:
+https://public.tableau.com/app/profile/vincent.vincent5153/viz/SaasCompany/Story
