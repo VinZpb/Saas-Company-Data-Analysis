@@ -1,8 +1,10 @@
 # Saas-Company-Data-Analysis
 
-The SaaS company is a company that is selling sales and marketing software to other companies (B2B). They have collected transactions data from their costumer. They hire a data scientist to analyze the dataset so that they can gain more insight and improve company future perfomance.
+The SaaS company is a company that is selling sales and marketing software to other companies (B2B). They have collected transactions data from their customer. They hire a data scientist to analyze the dataset so that they can gain more insight and improve company future perfomance.
 
+The dataset is saved and can be viewed in SaaS-Sales.csv
 Those dataset has been analyzed and can be viewed in Vincent_DataAnalysis_SaaSCompany.ipynb
+Both of those file are in this repositories.
 
 The analysis are conducted by following various step as follows:
 - Step 1: Describe the Problem Statement.
